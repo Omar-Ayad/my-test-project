@@ -1,7 +1,8 @@
 # my-test-project
 The it is test repo
-print("Welcome To our App")
-create=input("To craete a new account press enter")
+
+    print("Welcome To our App")
+    create=input("To craete a new account press enter")
 
     if create=="":
       print("Pleas enter your informatin")
